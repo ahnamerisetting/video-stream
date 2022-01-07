@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/ahnamerisetting/video-stream/blob/main/app.json",
+    "repository": "https://github.com/levina-lab/video-stream",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
